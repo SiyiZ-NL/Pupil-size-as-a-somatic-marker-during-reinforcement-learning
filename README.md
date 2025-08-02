@@ -1,0 +1,2 @@
+# Pupil-size-as-a-somatic-marker-during-reinforcement-learning
+This project is conducted within the Conscious Brain Lab at UvA, supervised by Simon van Gaal and Ivan Ivanchei. To examine if pupil functions as a somatic marker during a probabilistic reinforcement learning task, we fitted the behavioural responses to Q-learn models provided by Van Slooten, (2018). and correlated pupil with different parameters..
